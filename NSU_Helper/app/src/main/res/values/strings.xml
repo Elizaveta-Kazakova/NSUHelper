@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NSU_Helper</string>
+    <string name="nsu_helper">NSUHelper</string>
+    <string name="first_course">1 курс</string>
+    <string name="second_course">2 курс</string>
+    <string name="third_course">3 курс</string>
+    <string name="fourth_course">4 курс</string>
+    <string name="feedback">Отзывы</string>
+    <string name="send">Отправить</string>
+    <string name="back">Назад</string>
+    <string name="feedback_text">Напишите свой отзыв здесь</string>
+    <string name="feedbacks">Отзывы</string>
+    <string name="materials">materials</string>
+</resources>

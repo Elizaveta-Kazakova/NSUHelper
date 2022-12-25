@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="second_course">2 курс</string>
+    <string name="third_course">3 курс</string>
+    <string name="fourth_course">4 курс</string>
+    <string name="send">send</string>
+    <string name="back">back</string>
+    <string name="feedback_text">Напишите свой отзыв здесь</string>
+    <string name="feedbacks">Отзывы</string>
+    <string name="materials">materials</string>
+</resources>
