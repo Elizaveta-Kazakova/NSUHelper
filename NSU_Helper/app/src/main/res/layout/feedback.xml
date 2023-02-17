@@ -62,6 +62,7 @@
         app:layout_constraintTop_toBottomOf="@+id/title_rectangle">
 
         <LinearLayout
+            android:id="@+id/feedbacks"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical" />
@@ -74,6 +75,7 @@
         android:layout_marginTop="24dp"
         android:backgroundTint="#2A6577"
         android:fontFamily="sans-serif-medium"
+        android:onClick="sendFeedback"
         android:text="@string/send"
         android:textSize="20sp"
         app:cornerRadius="10sp"
